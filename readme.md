@@ -1,6 +1,6 @@
 #### 登录信息
 - 超级管理员（用户名：admin 密码：123）
-- 运行前确定你已经成功的安装32位java和配置Access数据源
+- 运行前确定你已经成功的安装32位java和配置Access数据源。
 
 #### 登陆成功界面
 ![](https://github.com/uboger/images/blob/master/image/loginin/lbm.gif)
